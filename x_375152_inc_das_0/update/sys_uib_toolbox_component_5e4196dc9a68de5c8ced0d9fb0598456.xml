@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <description>A INC dashboard component</description>
+        <icon>chart-forecast-fill</icon>
+        <label>INC Dashboard</label>
+        <macroponent display_value="INC Dashboard">63ee022aa269ff55946b740340b65a2b</macroponent>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 06:59:55</sys_created_on>
+        <sys_id>5e4196dc9a68de5c8ced0d9fb0598456</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INC Dashboard</sys_name>
+        <sys_package display_value="inc-dashboard" source="x_375152_inc_das_0">1318541f2ff11810179158492799b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="inc-dashboard">1318541f2ff11810179158492799b620</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_5e4196dc9a68de5c8ced0d9fb0598456</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 06:59:55</sys_updated_on>
+    </sys_uib_toolbox_component>
+</record_update>
